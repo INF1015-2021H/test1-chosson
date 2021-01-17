@@ -1,5 +1,5 @@
 ///
-/// Enfant d'chienne de crisse de sacristi de cibole de jésus de plâtre de patente à gosse de diable de cibolac de tabarnouche.
+/// Enfant d'chienne de crisse de sacristi de cibole de jÃ©sus de plÃ¢tre de patente Ã  gosse de diable de cibolac de tabarnouche.
 ///
 
 
@@ -10,6 +10,9 @@
 
 int main()
 {
-	std::cout << "Hello, world!" << "\n";
+	std::cout << "who dis? new repo: ";
+	std::string name;
+	std::getline(std::cin, name);
+	std::cout << "aight wassup " << name << "\n";
 }
 
